@@ -1,0 +1,63 @@
+@media only screen and (max-width: 768px){
+	.col-md-12.comanyNameDiv {
+		width: 100%;
+	}
+	.col-md-12.jobRoleDiv {
+		width: 100%;
+	}
+	.startDateDiv {
+		width: 100%;
+	}
+	.endDateDiv {
+		width: 100%;
+	}
+	.col-md-12.schoolDiv {
+		width: 100%;
+	}
+	.col-md-12.courseDiv {
+		width: 100%;
+	}
+	.col-md-12.certLogoDiv {
+		width: 100%;
+	}
+	.col-md-12.completionDiv {
+		width: 100%;
+	}
+	.storeTwoCol {
+		width: 98%;
+		padding-left: 10px;
+		padding-right: 10px;
+	}
+	.product-image-file {
+		min-height: 30px;
+		width: 100%;
+		float: left;
+		text-align: center;
+		margin-top: 10px;
+	}
+	.product-image-file-inner {
+		display: inline-block;
+		padding: 0px;
+		width: 100%;
+	}
+	.store-form-outer {
+		margin-right: 10px;
+		margin-bottom: 30px;
+	}
+	.storeAddMore {
+		width: 50%;
+		display: inline-block;
+		text-align: center;
+	}
+	.store-save {
+		width: 48%;
+		display: inline-block;
+		text-align: left;
+	}
+	.link-fieldd.link-embed-private.placeholder, .link-fieldd.link-embed-public {
+		display: inline-block;
+		width: fit-content;
+		float: left;
+		margin: 0px 5px 5px 0px;
+	}
+}
